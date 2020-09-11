@@ -1,0 +1,10 @@
+{
+  "name": "generator-yc-testvue",
+  "version": "1.0.0",
+  "description": "test my generator,module",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^4.12.0"
+  }
+}
